@@ -1,0 +1,545 @@
+[
+  {
+    "id": 34343,
+    "sku": "S023-BalletSlipper",
+    "name": "Susie Ballet Pink Padded Wired Demi Coverage Full Lace Bridal Bra",
+    "__typename": "ConfigurableProduct",
+    "created_at": "2021-04-08 05:14:10",
+    "updated_at": "2022-10-27 05:29:52",
+    "is_returnable": "1",
+    "stock_status": true,
+    "is_size_chart_available": true,
+    "is_size_calculator_available": true,
+    "product_link": "https://mcstaging.shyaway.com/susie-ballet-pink-padded-wired-demi-coverage-full-lace-bridal-bra/",
+    "wishlist_item_status": false,
+    "attribute_set_id": 48,
+    "country_of_manufacture": "CN",
+    "manufacturer_country": "China",
+    "options_container": "container2",
+    "gift_message_available": "2",
+    "url_key": "susie-ballet-pink-padded-wired-demi-coverage-full-lace-bridal-bra",
+    "canonical_url": "susie-ballet-pink-padded-wired-demi-coverage-full-lace-bridal-bra/",
+    "url_suffix": "/",
+    "meta_description": "Susie Ballet Pink Padded Wired Demi Coverage Full Lace Bridal Bra Susie Ballet Pink Padded Wired Demi Coverage Full Lace Bridal Bra",
+    "meta_keyword": "Diwali Collections",
+    "meta_title": "Susie Ballet Pink Padded Wired Demi Coverage Full Lace Bridal Bra",
+    "color": 3107,
+    "color_family": "3483",
+    "fabric": "3543,3534",
+    "offers": "3627,4681",
+    "offer_data": [
+      {
+        "label": "buy 2 get 3 free",
+        "color": "rgba(0 , 112, 255, 0.7)"
+      },
+      {
+        "label": "flat 50% off",
+        "color": "rgba(251, 19, 169, 0.7)"
+      }
+    ],
+    "description": {
+      "html": "Susie’s gorgeous pink demi-coverage lace designer bra Padded cups fitted with underwires and overlaid with luxurious lace Boning on either side ensures optimum support A floral stone charm embellishes the gore  The plunge neckline provides lift and highlights your fabulous cleavage Slim, fully-adjustable, detachable straps are designed to help you enjoy multiway styling Hook and eye closure at the back"
+    },
+    "short_description": {
+      "html": "Experience ultimate elegance and support in Susie’s luxurious pink lace bra whose contoured underwire cups and plunge neckline create a naturally rounded silhouette."
+    },
+    "thumbnail": {
+      "label": "Susie Ballet Pink Padded Wired Demi Coverage Full Lace Bridal Bra",
+      "url": "https://mcstaging.shyaway.com/media/catalog/product/s/0/s023-balletslipper-1.jpg?optimize=high&fit=bounds&height=&width="
+    },
+    "image": {
+      "url": "https://mcstaging.shyaway.com/media/catalog/product/s/0/s023-balletslipper-1.jpg?optimize=high&fit=bounds&height=&width=",
+      "label": "Susie Ballet Pink Padded Wired Demi Coverage Full Lace Bridal Bra"
+    },
+    "small_image": {
+      "url": "https://mcstaging.shyaway.com/media/catalog/product/s/0/s023-balletslipper-1.jpg?optimize=high&fit=bounds&height=&width=",
+      "label": "Susie Ballet Pink Padded Wired Demi Coverage Full Lace Bridal Bra"
+    },
+    "media_gallery": [
+      {
+        "url": "https://mcstaging.shyaway.com/media/catalog/product/s/0/s023-balletslipper-1.jpg?optimize=high&fit=bounds&height=&width=",
+        "label": "Susie Ballet Pink Padded Wired Demi Coverage Full Lace Bridal Bra",
+        "position": 1
+      },
+      {
+        "url": "https://mcstaging.shyaway.com/media/catalog/product/s/0/s023-balletslipper-2.jpg?optimize=high&fit=bounds&height=&width=",
+        "label": "Susie Ballet Pink Padded Wired Demi Coverage Full Lace Bridal Bra",
+        "position": 2
+      },
+      {
+        "url": "https://mcstaging.shyaway.com/media/catalog/product/s/0/s023-balletslipper-3.jpg?optimize=high&fit=bounds&height=&width=",
+        "label": "Susie Ballet Pink Padded Wired Demi Coverage Full Lace Bridal Bra",
+        "position": 3
+      }
+    ],
+    "choose_size": [
+      {
+        "key": "size",
+        "id": "362",
+        "label": "sizes",
+        "in_stock_options": [
+          {
+            "id": "2384",
+            "label": "32B",
+            "max_sale_qty": "4",
+            "price": {
+              "regular_price": {
+                "value": "1049",
+                "currency": "INR"
+              },
+              "final_price": {
+                "value": "1049",
+                "currency": "INR"
+              },
+              "discount": {
+                "amount_off": 0,
+                "percent_off": 0
+              }
+            }
+          },
+          {
+            "id": "2385",
+            "label": "32C",
+            "max_sale_qty": "4",
+            "price": {
+              "regular_price": {
+                "value": "849",
+                "currency": "INR"
+              },
+              "final_price": {
+                "value": "849",
+                "currency": "INR"
+              },
+              "discount": {
+                "amount_off": 0,
+                "percent_off": 0
+              }
+            }
+          },
+          {
+            "id": "2366",
+            "label": "38B",
+            "max_sale_qty": "4",
+            "price": {
+              "regular_price": {
+                "value": "849",
+                "currency": "INR"
+              },
+              "final_price": {
+                "value": "849",
+                "currency": "INR"
+              },
+              "discount": {
+                "amount_off": 0,
+                "percent_off": 0
+              }
+            }
+          },
+          {
+            "id": "2367",
+            "label": "34C",
+            "max_sale_qty": "4",
+            "price": {
+              "regular_price": {
+                "value": "849",
+                "currency": "INR"
+              },
+              "final_price": {
+                "value": "849",
+                "currency": "INR"
+              },
+              "discount": {
+                "amount_off": 0,
+                "percent_off": 0
+              }
+            }
+          },
+          {
+            "id": "2368",
+            "label": "34D",
+            "max_sale_qty": "4",
+            "price": {
+              "regular_price": {
+                "value": "849",
+                "currency": "INR"
+              },
+              "final_price": {
+                "value": "849",
+                "currency": "INR"
+              },
+              "discount": {
+                "amount_off": 0,
+                "percent_off": 0
+              }
+            }
+          },
+          {
+            "id": "2374",
+            "label": "36B",
+            "max_sale_qty": "4",
+            "price": {
+              "regular_price": {
+                "value": "849",
+                "currency": "INR"
+              },
+              "final_price": {
+                "value": "849",
+                "currency": "INR"
+              },
+              "discount": {
+                "amount_off": 0,
+                "percent_off": 0
+              }
+            }
+          },
+          {
+            "id": "2375",
+            "label": "36C",
+            "max_sale_qty": "4",
+            "price": {
+              "regular_price": {
+                "value": "849",
+                "currency": "INR"
+              },
+              "final_price": {
+                "value": "849",
+                "currency": "INR"
+              },
+              "discount": {
+                "amount_off": 0,
+                "percent_off": 0
+              }
+            }
+          },
+          {
+            "id": "2376",
+            "label": "36D",
+            "max_sale_qty": "4",
+            "price": {
+              "regular_price": {
+                "value": "849",
+                "currency": "INR"
+              },
+              "final_price": {
+                "value": "849",
+                "currency": "INR"
+              },
+              "discount": {
+                "amount_off": 0,
+                "percent_off": 0
+              }
+            }
+          },
+          {
+            "id": "2358",
+            "label": "38C",
+            "max_sale_qty": "4",
+            "price": {
+              "regular_price": {
+                "value": "849",
+                "currency": "INR"
+              },
+              "final_price": {
+                "value": "849",
+                "currency": "INR"
+              },
+              "discount": {
+                "amount_off": 0,
+                "percent_off": 0
+              }
+            }
+          }
+        ],
+        "out_of_stock_options": [
+          {
+            "id": "2386",
+            "label": "32D",
+            "max_sale_qty": "4"
+          },
+          {
+            "id": "238",
+            "label": "30D",
+            "max_sale_qty": "4"
+          },
+          {
+            "id": "2357",
+            "label": "34B",
+            "max_sale_qty": "4"
+          }
+        ]
+      }
+    ],
+    "price_range": {
+      "minimum_price": {
+        "regular_price": {
+          "value": "849",
+          "currency": "INR"
+        },
+        "final_price": {
+          "value": "500",
+          "currency": "INR"
+        },
+        "discount": {
+          "amount_off": 349,
+          "percent_off": 41.11
+        }
+      },
+      "maximum_price": {
+        "regular_price": {
+          "value": "1049",
+          "currency": "INR"
+        },
+        "final_price": {
+          "value": "1049",
+          "currency": "INR"
+        }
+      }
+    },
+    "product_links": [
+      {
+        "link_type": "related",
+        "linked_product_sku": "S023-HotRed",
+        "linked_product_type": "configurable",
+        "position": 1,
+        "sku": "S023-BalletSlipper"
+      },
+      {
+        "link_type": "related",
+        "linked_product_sku": "S023-NavyBlue",
+        "linked_product_type": "configurable",
+        "position": 2,
+        "sku": "S023-BalletSlipper"
+      },
+      {
+        "link_type": "related",
+        "linked_product_sku": "S023-DoubleCream",
+        "linked_product_type": "configurable",
+        "position": 3,
+        "sku": "S023-BalletSlipper"
+      }
+    ],
+    "url_rewrites": [
+      {
+        "url": "susie-ballet-pink-padded-wired-demi-coverage-full-lace-bridal-bra/",
+        "parameters": [
+          {
+            "value": "34343",
+            "name": "id"
+          }
+        ]
+      },
+      {
+        "url": "bra-online/susie-ballet-pink-padded-wired-demi-coverage-full-lace-bridal-bra/",
+        "parameters": [
+          {
+            "value": "34343",
+            "name": "id"
+          },
+          {
+            "value": "3",
+            "name": "category"
+          }
+        ]
+      },
+      {
+        "url": "/susie-ballet-pink-padded-wired-demi-coverage-full-lace-bridal-bra/",
+        "parameters": [
+          {
+            "value": "34343",
+            "name": "id"
+          },
+          {
+            "value": "2",
+            "name": "category"
+          }
+        ]
+      }
+    ],
+    "categories": [
+      {
+        "canonical_url": "bra-online/",
+        "created_at": "2018-10-10 01:00:04",
+        "description": "<div data-content-type=\"row\" data-appearance=\"contained\" data-element=\"main\"><div data-enable-parallax=\"0\" data-parallax-speed=\"0.5\" data-background-images=\"{}\" data-background-type=\"image\" data-video-loop=\"true\" data-video-play-only-visible=\"true\" data-video-lazy-load=\"true\" data-video-fallback-src=\"\" data-element=\"inner\" style=\"justify-content: flex-start; display: flex; flex-direction: column; background-position: left top; background-size: cover; background-repeat: no-repeat; background-attachment: scroll; border-style: none; border-width: 1px; border-radius: 0px; margin: 0px 0px 10px; padding: 10px;\"><div data-content-type=\"html\" data-appearance=\"default\" data-element=\"main\" style=\"border-style: none; border-width: 1px; border-radius: 0px; margin: 0px; padding: 0px;\">&lt;p&gt;Style that brings out the best in you Bras were originally created to give support and shape to the breasts and have now evolved into a fashion statement. Bras come in various styles and fabrics where styles have evolved from increased functionality to include design and fashion as well. It has now become the staple in every woman’s wardrobe. Women today are spoilt for choices. For every occasion they need special intimates to keep them company. Some women find the task of buying bras in person embarrassing or even frustrating as they might get the perfect bra even after sifting through a hundred racks. Shopping for bras online can seem a bit intimidating at first but once you get the hang of it you will always buy your lingerie online. Shyaway will make the experience easy for you by giving you elaborate product descriptions, photographs from different angles and help you make the right choices while buying bras online. Shyaway aims to provide you the best shopping experience by carrying a collection of the top lingerie brands in India and worldwide such as Enamor, Lovable, Jockey, Amante, Laavian, Hanes and Shyle that allows you to choose from a wide range of styles that comprise everyday bra, push-up bras, sports bras, strapless bras, maternity bras, nursing bras, minimizer bras, t-shirts bras, contour or molded bras, balconette bra and teenage bras. Every woman has a right to feel beautiful and fitted with supportive lingerie. So come to Shyaway to find the bra that suits the occasion that you rise to meet, be it shopping for the basics such as everyday bras that support and enhance your bust, or nursing and maternity bras when you are pregnant, pushup and lace bras to seduce your partner or even performance based sports bras that are used while playing sports. Buy bras online at Shyaway.com to experience the best online shopping experience of bras in India.&lt;/p&gt;</div></div></div>",
+        "id": 3,
+        "level": 2,
+        "name": "Bra",
+        "path": "1/2/3",
+        "position": 1,
+        "product_count": 737,
+        "products": {
+          "total_count": 737,
+          "items": [
+            {
+              "id": 34343,
+              "name": "Susie Ballet Pink Padded Wired Demi Coverage Full Lace Bridal Bra"
+            },
+            {
+              "id": 35727,
+              "name": "Susie Grey Melange Wirefree Full Coverage No Sag M Frame Bra"
+            },
+            {
+              "id": 34117,
+              "name": "Shyaway Black Beauty Padded Wirefree Hi Support Minimiser Bra"
+            },
+            {
+              "id": 35822,
+              "name": "Susie Black Beauty Non Padded Moulded Plunge Bra"
+            },
+            {
+              "id": 28364,
+              "name": "Susie Navy Blue Padded Wired Demi Coverage Full Lace Bra"
+            },
+            {
+              "id": 30383,
+              "name": "Shyaway Black White Heart Print Seamless T-Shirt Bra"
+            },
+            {
+              "id": 35824,
+              "name": "Susie Fiery Red Non Padded Moulded Plunge Bra"
+            },
+            {
+              "id": 33827,
+              "name": "Taabu Monument Grey Mesh Neckline Padded Full Coverage Bra"
+            },
+            {
+              "id": 28761,
+              "name": "Susie Baby Pink Padded Designer Lace Strappy Front Bra"
+            },
+            {
+              "id": 30898,
+              "name": "Susie Paradise Green Fancy Back Lace Front Open Bra"
+            },
+            {
+              "id": 35721,
+              "name": "Susie Grey Melange Moulded Full Coverage Everyday Bra"
+            },
+            {
+              "id": 33381,
+              "name": "Susie Black Beauty Padded Wired Full Lace Balconette Bra"
+            },
+            {
+              "id": 33423,
+              "name": "Susie Chinese Violet Wirefree Full Coverage  Minimiser Bra"
+            },
+            {
+              "id": 27358,
+              "name": "Shyaway Thulian Pink Lace Embellished Minimiser Bra"
+            },
+            {
+              "id": 36198,
+              "name": "Taabu Pale Pink Heart Print Padded Wirefree T shirt Bra"
+            },
+            {
+              "id": 35420,
+              "name": "Susie Black Beauty Encircled Wirefree Full Coverage Everyday Bra"
+            },
+            {
+              "id": 34113,
+              "name": "Shyaway Storm Grey Padded Wirefree Hi Support Minimiser Bra"
+            },
+            {
+              "id": 35278,
+              "name": "Susie Fuschia Encircled Wirefree Full Coverage Everyday Bra"
+            },
+            {
+              "id": 33829,
+              "name": "Taabu Almond Buff Skin Mesh Neckline Padded Full Coverage Bra"
+            },
+            {
+              "id": 36184,
+              "name": "Taabu Ocean Blue Flower Print Padded Wirefree T shirt Bra"
+            }
+          ]
+        },
+        "updated_at": "2022-05-16 13:13:36",
+        "url_key": "bra-online",
+        "url_path": "bra-online"
+      }
+    ],
+    "related_products": [
+      {
+        "id": 28362,
+        "name": "Susie Hot Red Padded Wired Demi Coverage Full Lace Bra",
+        "product_link": "https://mcstaging.shyaway.com/susie-hot-red-padded-full-lace-bra/",
+        "sku": "S023-HotRed",
+        "final_price": "849",
+        "regular_price": "849",
+        "image": {
+          "url": "https://mcstaging.shyaway.com/media/catalog/product/s/0/s023-hotred_front.jpg?optimize=high&fit=bounds&height=&width="
+        },
+        "is_saleable": true,
+        "is_similar_products_available": true,
+        "product_type": "configurable",
+        "review": "4.3",
+        "offer_data": [
+          {
+            "label": "buy 2 get 3 free",
+            "color": "rgba(0 , 112, 255, 0.7)"
+          },
+          {
+            "label": "flat 50% off",
+            "color": "rgba(251, 19, 169, 0.7)"
+          }
+        ],
+        "wishlist_item_status": false,
+        "required_options": true
+      },
+      {
+        "id": 28364,
+        "name": "Susie Navy Blue Padded Wired Demi Coverage Full Lace Bra",
+        "product_link": "https://mcstaging.shyaway.com/susie-navy-blue-padded-full-lace-bra/",
+        "sku": "S023-NavyBlue",
+        "final_price": "849",
+        "regular_price": "849",
+        "image": {
+          "url": "https://mcstaging.shyaway.com/media/catalog/product/s/0/s023-navyblue_front.jpg?optimize=high&fit=bounds&height=&width="
+        },
+        "is_saleable": true,
+        "is_similar_products_available": false,
+        "product_type": "configurable",
+        "review": "4",
+        "offer_data": [
+          {
+            "label": "buy 2 get 3 free",
+            "color": "rgba(0 , 112, 255, 0.7)"
+          },
+          {
+            "label": "flat 50% off",
+            "color": "rgba(251, 19, 169, 0.7)"
+          }
+        ],
+        "store_id": "1",
+        "wishlist_item_status": false,
+        "required_options": false
+      },
+      {
+        "id": 34345,
+        "name": "Susie Double Cream Padded Wired Demi Coverage Full Lace Bra",
+        "product_link": "https://mcstaging.shyaway.com/susie-double-cream-padded-wired-demi-coverage-full-lace-bra/",
+        "sku": "S023-DoubleCream",
+        "final_price": "849",
+        "regular_price": "849",
+        "image": {
+          "url": "https://mcstaging.shyaway.com/media/catalog/product/s/0/s023-doublecream-1.jpg?optimize=high&fit=bounds&height=&width="
+        },
+        "is_saleable": true,
+        "is_similar_products_available": false,
+        "product_type": "configurable",
+        "review": "4",
+        "offer_data": [
+          {
+            "label": "buy 2 get 3 free",
+            "color": "rgba(0 , 112, 255, 0.7)"
+          },
+          {
+            "label": "flat 50% off",
+            "color": "rgba(251, 19, 169, 0.7)"
+          }
+        ],
+        "store_id": "1",
+        "wishlist_item_status": false,
+        "required_options": false
+      }
+    ]
+  }
+]
