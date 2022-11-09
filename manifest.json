@@ -1,6 +1,6 @@
 {
-    "name": "shyaways",
-    "short_name": "shyaways",
+    "name": "shyaway",
+    "short_name": "shyaway",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
